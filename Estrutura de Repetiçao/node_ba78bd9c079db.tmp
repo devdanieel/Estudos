@@ -1,0 +1,6 @@
+let i = 1
+for ( ; ; ){
+    if (i < 6)
+    console.log(i);
+    i++;
+}
